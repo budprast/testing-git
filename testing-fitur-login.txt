@@ -1,5 +1,8 @@
 username: id
 masukan username
 hint
-nama bapa
+nama hewan peliharaan
+password: masukan password
+masuk via google
+facebook
 
